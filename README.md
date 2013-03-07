@@ -21,8 +21,8 @@ the question that may lead to that figure. This new information is then saved to
 
 The Assignments for this program related to adding new features:
 
-(1) The function to Save the game to a file
-(2) The function to load the game from a file
+(1) The function to Save the game to a file.
+(2) The function to load the game from a file.
 (3) To Save the game into a profile, and to select 
     and load the profile upon the beginning of a new game.
  
